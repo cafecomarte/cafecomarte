@@ -1,0 +1,41 @@
+
+.corpo{ 
+
+    
+    height:1200px;
+   
+}
+.fundo{
+    position: relative;
+    width: 100%;
+    height: 1470px !important;
+    min-height: 35rem;
+
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7) 0%,
+     rgb(19, 3, 3)), 
+     url("../img/fundo.jpg");
+    background-position: center;
+    height: 1200px;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.menu{ 
+    background-color:rgb(46, 24, 24) !important;
+}
+
+a{ 
+    color:white !important;
+
+}
+
+h1{ 
+    
+    text-transform: uppercase;
+}
+
+.font{
+    font-family: Courier New;
+}
