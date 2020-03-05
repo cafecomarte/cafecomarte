@@ -48,3 +48,9 @@ h1{
 .footerContent{ 
     height:70px;
 }
+
+
+.box{ 
+    border-radius: 25px 45px;
+}
+
