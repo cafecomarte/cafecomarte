@@ -39,3 +39,12 @@ h1{
 .font{
     font-family: Courier New;
 }
+
+.footer{
+    margin-top:130px;
+    
+}
+
+.footerContent{ 
+    height:70px;
+}
